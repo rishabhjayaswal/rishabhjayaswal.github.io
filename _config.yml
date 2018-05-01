@@ -103,7 +103,7 @@ animation: true
 plugins:
   - jekyll-seo-tag
   - jekyll-gist
-  # - jekyll-feed
+  - jekyll-feed
   - jemoji
   - jekyll-admin
 
