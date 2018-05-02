@@ -14,7 +14,7 @@ picture: assets/images/profile.png
 # and specify source (external or local).
 resume: true
 resume-external: true
-resume-url: https://writelatex.s3.amazonaws.com/pdjrgbtfgyjn/uploads/1356/23632106/1.pdf?X-Amz-Expires=14400&X-Amz-Date=20180501T103913Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJF667VKUK4OW3LCA/20180501/us-east-1/s3/aws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=6a8811c1694036e5b9dc06b888c78fc8592d620d21d0e4be8a3e6d8c5bad5bfa
+resume-url: https://drive.google.com/file/d/10KC1smltCqwylTBVo8RsHf2GAeH3cmQT/view?usp=sharing
 
 url: https://priyankajayaswal.github.io
 # your url: http://USERNAME.github.io
