@@ -7,6 +7,7 @@ headerImage: false
 tag:
 - first
 - blog
+star: true
 category: blog
 author: rishabhjayaswal
 description: Testing
