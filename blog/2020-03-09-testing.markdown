@@ -1,23 +1,18 @@
 ---
-title: "Testing"
+title: "Markdown Extra Components"
 layout: post
-date: 2020-03-09 21:06
+date: 2016-02-24 22:48
 image: /assets/images/markdown.jpg
 headerImage: false
 tag:
-- first
-- blog
-star: true
+- markdown
+- components
+- extra
 category: blog
-author: rishabhjayaswal
-description: Testing
+author: jamesfoster
+description: Markdown summary with different options
 ---
 
-## Testing
+## Summary:
 
-## Testing
-
-
---------------------
-
-## Testing
+You can pick as item to see how to apply in markdown.
