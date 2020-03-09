@@ -1,6 +1,6 @@
 ---
 title: "Testing"
-layout: blog
+layout: post
 date: 2020-03-09 21:06
 image: /assets/images/markdown.jpg
 headerImage: false
