@@ -1,9 +1,9 @@
 # main text of home
-name: Priyanka Jayaswal
-bio: Tech Enthusiast
+name: Rishabh Jayaswal
+bio: Car Enthusiast
 
 # twitter summary info
-description: Tech Enthusiast
+description: Car Enthusiast
 
 # if it's an external image, update below for true
 # better with square images
@@ -12,11 +12,11 @@ picture: assets/images/profile.png
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
-resume: true
-resume-external: true
-resume-url: https://drive.google.com/file/d/10KC1smltCqwylTBVo8RsHf2GAeH3cmQT/view?usp=sharing
+# resume: true
+# resume-external: true
+# resume-url: https://drive.google.com/file/d/10KC1smltCqwylTBVo8RsHf2GAeH3cmQT/view?usp=sharing
 
-url: https://priyankajayaswal.github.io
+url: https://rishabhjayaswal.github.io
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
@@ -35,14 +35,14 @@ permalink: /:title/
 
 # if you don't have any of social below, comment the line
 # facebook: myfacebook
-twitter: PriyankaJaya
+# twitter: PriyankaJaya
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
-linkedin: priyanka-jayaswal-95059364
+linkedin: rishabh-jayaswal-0a7aaab9
 # youtube: myyoutube
 # spotify: myspotify
-github: priyankajayaswal1
+github: rishabhjayaswal
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
@@ -50,7 +50,7 @@ github: priyankajayaswal1
 # medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-email: priyankajayaswal025@gmail.com
+email: rishabhjayas555@gmail.com
 
 # authors:
 #     johndoe:
